@@ -21,7 +21,7 @@ Developed an interactive sales analytics dashboard in Microsoft Excel using Pivo
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](salesdashboard.png)
 
 ## Project Highlights
 - Built dynamic and interactive visualizations
